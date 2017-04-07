@@ -9,6 +9,7 @@
 	<distributionManagement>
 				
 		
+		
 		<snapshotRepository>
       <id>developer</id>
       <url>http://localhost:8081/repository/test/</url>
