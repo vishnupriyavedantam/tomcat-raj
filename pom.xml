@@ -14,6 +14,7 @@
    </snapshotRepository>
 		
 		
+		
 </distributionManagement>
 <dependencies>
 		<!-- tag::joda[] -->
