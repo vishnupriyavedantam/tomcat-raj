@@ -12,16 +12,15 @@
 		<snapshotRepository>
       <id>developer</id>
       <url>http://localhost:8081/repository/test/</url>
-   </snapshotRepository>
-		
-		<properties>        
-    <start-class>mypackage.App</start-class>
-</properties>
+		</snapshotRepository>
 		
 		
 		
 			
 </distributionManagement>
+	<properties>        
+    <start-class>mypackage.App</start-class>
+</properties>
 <dependencies>
 		<!-- tag::joda[] -->
 		<dependency>
