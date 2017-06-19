@@ -7,6 +7,10 @@
 	<packaging>war</packaging>
 	<version>0.1.0-SNAPSHOT</version>
 	<distributionManagement>
+ <snapshotRepository>
+      <id>developer</id>
+      <url>http://localhost:8081/repository/Repo/</url>
+   </snapshotRepository>
 				
 <snapshotRepository>
       <id>developer</id>
